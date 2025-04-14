@@ -36,5 +36,6 @@ We’re always open to collaboration; whether you’re a fellow developer, a des
 
 ## 🔗 Links
 
-- 🌐 [Official Website](https://khazarsrc.github.io)
-- 🪶 [X](https://x.com/Khazarsrc)
+- [🌐 Official Website](https://khazarsrc.github.io)
+- [📧 Email](mailto:khazarsrc@gmail.com)
+- [🪶 X](https://x.com/Khazarsrc)
