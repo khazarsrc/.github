@@ -23,10 +23,10 @@ Our projects are as diverse as our ideas, and we’re busy making tools for both
 
 We love a good challenge, our teams aim to participate in both local and global events, flexing creativity under pressure, and walking away with projects we're proud of.
 
-- 5 Frontend Developers (React + TypeScript)
-- 2 Backend Developers (Spring + Java)
-- 1 AI Developer (Python + PyTorch)
-- 1 Embedded Systems Developer (Rust)
+- **5 Frontend Developers** (React + TypeScript)
+- **2 Backend Developers** (Spring + Java)
+- **1 AI Developer** (Python + PyTorch)
+- **1 Embedded Systems Developer** (Rust)
 
 ## 🤝 Join Us?
 
