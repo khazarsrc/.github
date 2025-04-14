@@ -28,13 +28,13 @@ We love a good challenge, our teams aim to participate in both local and global 
 - 1 AI Developer (Python + PyTorch)
 - 1 Embedded Systems Developer (Rust)
 
-## 🔗 Links
-
-- 🌐 [Official Website](https://khazarsrc.github.io)
-- 🪶 [X](https://x.com/Khazarsrc)
-
 ## 🤝 Join Us?
 
 We’re always open to collaboration; whether you’re a fellow developer, a designer with a love for clean UX, or someone with an idea worth building.
 
 **Let’s build something epic together.**
+
+## 🔗 Links
+
+- 🌐 [Official Website](https://khazarsrc.github.io)
+- 🪶 [X](https://x.com/Khazarsrc)
